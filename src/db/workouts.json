@@ -1,0 +1,27 @@
+[
+  {
+    "index": 1,
+    "title": "Senior Gympa",
+    "description": "Anpassat för dig som är 65+"
+  },
+  {
+    "index": 2,
+    "title": "Aerobics",
+    "description": "Aerobics dans passar dig som gillar när musikens takt tar dig in i ett drivande flöde"
+  },
+  {
+    "index": 3,
+    "title": "Cirkelgym",
+    "description": "Här tränar du hela kroppen med enkla gymmaskiner och redskap som kettlebells, gymband och fria vikter"
+  },
+  {
+    "index": 4,
+    "title": "Dans Afro",
+    "description": "Dans afro passar dig som vill släpp loss och hitta en den fria känslan. Här dansar du dig in i ett flöde med en enkel koreografi."
+  },
+  {
+    "index": 5,
+    "title": "HIT",
+    "description": "HIT är rejält tuff träning med massor av pepp och fokus. Här håller du hög intensitet och högt tempo under hela passet"
+  }
+]

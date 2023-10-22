@@ -1,0 +1,17 @@
+.book-workout-page {
+  overflow: scroll;
+  max-height: 42em;
+}
+
+.book-workout {
+  background-color: rgb(137, 143, 129);
+  margin-top: 1em;
+  padding: 0.5em;
+}
+
+.book-btn {
+  width: 5em;
+  height: 2em;
+  margin-top: 0.8em;
+  border-radius: 3em;
+}

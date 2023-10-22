@@ -1,0 +1,33 @@
+header {
+  background-color: rgb(48, 54, 44);
+  margin-top: 0;
+  height: 6em;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+header h2 {
+  margin-left: 0.3em;
+  text-transform: uppercase;
+}
+
+.header-user {
+  display: flex;
+  align-items: center;
+  width: 20em;
+  justify-content: flex-end;
+}
+
+.img {
+  background-color: rgb(222, 222, 222);
+  width: 4em;
+  height: 4em;
+  margin-right: 1em;
+  border-radius: 100%;
+}
+
+p {
+  margin-right: 1em;
+}
